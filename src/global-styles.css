@@ -58,7 +58,7 @@ html {
   --color-success: hsl(120deg 80% 35%);
   --color-success-bg: hsl(120deg 90% 96%);
   --color-error: hsl(345deg 100% 50%);
-  --color-error-bg: hsl(350deg 90% 96%);
+  --color-error-bg: hsl(351, 91%, 91%);
 
   --shadow-color: 250deg 35% 11%;
   /* prettier-ignore */
